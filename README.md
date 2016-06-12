@@ -14,3 +14,6 @@ utilizado, el usuario ha de registrarse, y se evita el registro de bots a travé
 La información de login se encuentra encriptada con un potente cifrado, para que nunca
 pueda caer en malas manos.
 Su autor es Jose Carlos Aragón De Los Reyes en 2016.
+
+
+![Imagen](/relative/imagenes/Noticias1.png?raw=true "SocialBlog")
