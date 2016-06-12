@@ -16,4 +16,4 @@ pueda caer en malas manos.
 Su autor es Jose Carlos Aragón De Los Reyes en 2016.
 
 
-![Imagen](/relative/imagenes/Noticias1.png?raw=true "SocialBlog")
+![Imagen](/imagenes/Noticias1.png?raw=true "SocialBlog")
